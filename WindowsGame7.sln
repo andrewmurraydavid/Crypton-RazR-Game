@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame7", "WindowsGame7\WindowsGame7\WindowsGame7.csproj", "{D5E54F92-4DC4-4063-9B06-B175B91AED0A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "WindowsGame7Content", "WindowsGame7\WindowsGame7Content\WindowsGame7Content.contentproj", "{244CB93D-2F35-4D45-BC3F-7CD6F8E2C87D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E54F92-4DC4-4063-9B06-B175B91AED0A}.Debug|x86.ActiveCfg = Debug|x86
+		{D5E54F92-4DC4-4063-9B06-B175B91AED0A}.Debug|x86.Build.0 = Debug|x86
+		{D5E54F92-4DC4-4063-9B06-B175B91AED0A}.Release|x86.ActiveCfg = Release|x86
+		{D5E54F92-4DC4-4063-9B06-B175B91AED0A}.Release|x86.Build.0 = Release|x86
+		{244CB93D-2F35-4D45-BC3F-7CD6F8E2C87D}.Debug|x86.ActiveCfg = Debug|x86
+		{244CB93D-2F35-4D45-BC3F-7CD6F8E2C87D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

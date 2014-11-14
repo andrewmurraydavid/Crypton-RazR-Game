@@ -1,0 +1,21 @@
+c:\users\ct-1\documents\visual studio 2010\Projects\WindowsGame7\WindowsGame7\WindowsGame7\bin\x86\Debug\WindowsGame7.exe
+c:\users\ct-1\documents\visual studio 2010\Projects\WindowsGame7\WindowsGame7\WindowsGame7\bin\x86\Debug\WindowsGame7.pdb
+c:\users\ct-1\documents\visual studio 2010\Projects\WindowsGame7\WindowsGame7\WindowsGame7\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ct-1\documents\visual studio 2010\Projects\WindowsGame7\WindowsGame7\WindowsGame7\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\ct-1\documents\visual studio 2010\Projects\WindowsGame7\WindowsGame7\WindowsGame7\obj\x86\Debug\WindowsGame7.exe
+c:\users\ct-1\documents\visual studio 2010\Projects\WindowsGame7\WindowsGame7\WindowsGame7\obj\x86\Debug\WindowsGame7.pdb
+c:\users\ct-1\documents\visual studio 2010\Projects\WindowsGame7\WindowsGame7\WindowsGame7\bin\x86\Debug\Content\Jellyfish.xnb
+c:\users\ct-1\documents\visual studio 2010\Projects\WindowsGame7\WindowsGame7\WindowsGame7\bin\x86\Debug\Content\starfield.xnb
+C:\Users\ct-1\Documents\Visual Studio 2010\Projects\WindowsGame7\WindowsGame7\WindowsGame7\bin\x86\Debug\Content\Desert.xnb
+D:\Games\WindowsGame7\WindowsGame7\WindowsGame7\bin\x86\Debug\Content\Jellyfish.xnb
+D:\Games\WindowsGame7\WindowsGame7\WindowsGame7\bin\x86\Debug\Content\starfield.xnb
+D:\Games\WindowsGame7\WindowsGame7\WindowsGame7\bin\x86\Debug\Content\Desert.xnb
+D:\Games\WindowsGame7\WindowsGame7\WindowsGame7\bin\x86\Debug\WindowsGame7.exe
+D:\Games\WindowsGame7\WindowsGame7\WindowsGame7\bin\x86\Debug\WindowsGame7.pdb
+D:\Games\WindowsGame7\WindowsGame7\WindowsGame7\obj\x86\Debug\WindowsGame7.csprojResolveAssemblyReference.cache
+D:\Games\WindowsGame7\WindowsGame7\WindowsGame7\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Games\WindowsGame7\WindowsGame7\WindowsGame7\obj\x86\Debug\WindowsGame7.exe
+D:\Games\WindowsGame7\WindowsGame7\WindowsGame7\obj\x86\Debug\WindowsGame7.pdb
+D:\Games\WindowsGame7\WindowsGame7\WindowsGame7\bin\x86\Debug\Courier New.spritefont
+D:\Games\WindowsGame7\WindowsGame7\WindowsGame7\bin\x86\Debug\Content\Courier New.xnb
+D:\Games\WindowsGame7\WindowsGame7\WindowsGame7\bin\x86\Debug\Content\jel1.xnb
